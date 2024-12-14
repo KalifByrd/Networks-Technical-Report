@@ -70,7 +70,8 @@ To address these risks, researchers are developing quantum-resistant algorithms,
 
 Institutes such as the National Institute of Standards and Tech (NIST) are establishing norms for the use of post-quantum algorithms in order to facilitate the shift towards quantum-resistant systems.
 
-**Diagram: Post-Quantum Cryptography Implementation: [https://www.pqcsecure.org/](https://www.pqcsecure.org/)![][image1]**
+**Diagram: Post-Quantum Cryptography Implementation: [https://www.pqcsecure.org/](https://www.pqcsecure.org/)![][image1]**![pqc-system22](https://github.com/user-attachments/assets/9a1511dd-253b-4c22-b91b-2664c41f6f8b)
+
 
 ---
 
