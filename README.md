@@ -10,7 +10,7 @@ With the increasing pace of digital transformation in all fields, protecting the
 
 ## **1\. Integration of Artificial Intelligence in Network Security**
 
-Artificial Intelligence (AI) algorithms have developed the capability to search for cyber threats such as zero-day attacks swiftly. The success of AI has been determined by evaluating its ability to counter legal cyber plans. Today, AI successfully finds a pragmatic application in cybersecurity as it uses an array of precious information to remit the best solution in an ever-changing cyber threat environment.
+Artificial Intelligence (AI) algorithms, have developed the capability to search for cyber threats such as zero-day attacks swiftly. The success of AI has been determined by evaluating its ability to counter legal cyber plans. Today, AI successfully finds a pragmatic application in cybersecurity as it uses an array of precious information to remit the best solution in an ever-changing cyber threat environment.
 
 ### **Key Applications of AI:**
 
